@@ -20,7 +20,6 @@
 		<java.version>1.7</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<!-- <maven-repository>http://218.17.55.105:8081/nexus</maven-repository> -->
 		<maven-repository>http://maven.tonv.cc</maven-repository>
 		
 		<!-- Third Party -->
